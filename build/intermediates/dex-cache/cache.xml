@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudioworkspace\AMap3DDemo1\app\libs\MapApiServices.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e84628aa8eea7b9892768f19c41dbe02abc7f666">
+        <dex dex="F:\AndroidStudioworkspace\AMap3DDemo1\app\build\intermediates\pre-dexed\debug\MapApiServices-4cda860d3cc43d033aa7a0677acac561375c495a.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioworkspace\AMap3DDemo1\app\libs\Android_Map_V3.0.20150831.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b7cd1ac572162f78b5ca23d763d4c3cc9b7e1e07">
+        <dex dex="F:\AndroidStudioworkspace\AMap3DDemo1\app\build\intermediates\pre-dexed\debug\Android_Map_V3.0.20150831-8919fe3c68e522dce1f5d70a5dab6a3747534400.jar" />
+    </item>
+    <item
+        jar="F:\androidStudio\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\AndroidStudioworkspace\AMap3DDemo1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-71388bfef2ee44fa4a5e442f97f56c7f39579dc9.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioworkspace\AMap3DDemo1\app\libs\AMap_ Location_v1.4.0_20150830.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77864ab8aa4e06bec7125d37edc68a5afd2d6930">
+        <dex dex="F:\AndroidStudioworkspace\AMap3DDemo1\app\build\intermediates\pre-dexed\debug\AMap_ Location_v1.4.0_20150830-387779a246aa54a4289a2b5dd72fc9eefe85f91a.jar" />
+    </item>
+
+</items>
